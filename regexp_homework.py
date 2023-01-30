@@ -26,6 +26,7 @@ pprint(contacts_list)
 # ваш код
 export = []
 for row in contacts_list:
+  #Добавляем шапку
   if row[0] == 'lastname':
     export.append(row)
   else:
@@ -45,7 +46,6 @@ for row in contacts_list:
         row[5]+= f" доб.{''.join(phone)};"
     #find duplicates
     counter = 0
-    #Сравниваем по ФИО если больше 2х совпадений то считаем что дубликат
     if len(export) != 0:
       # Если выходной список не пуст, бежим по всем записям
       for c in range(len(export)):
