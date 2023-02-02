@@ -9,7 +9,7 @@ class hh():
         self.session = requests.session()
         self.session.headers.update({'User-agent': 'Mozilla/5.0',})
         pass
-    def get_list_of_vacancies(self,url="https://spb.hh.ru/search/vacancy?text=python&area=1&area=2"):
+    def get_list_of_vacancies(self,url="https://spb.hh.ru/search/vacancy?text=python&area=1&area=2&items_on_page=100"):
         resp = self.session.get(url=url)
         if resp.status_code == 200:
             #print(resp.text)
@@ -44,7 +44,7 @@ class hh():
         return None
         pass
 
-    def filter_by(self,text=["Django", "Flask"]):
+    def filter_by_text(self,text=["Django", "Flask"]):
         result=[]
         for vacancy in self.vacancies:
             check = True
@@ -52,6 +52,12 @@ class hh():
                 if str(vacancy['vacancy_description']).count(search) <= 0:
                     check = False
             if check:
+                result.append(vacancy)
+        return result
+    def filter_by_curency(self,curency='USD'):
+        result = []
+        for vacancy in self.vacancies:
+            if str(vacancy['salary']).count(curency) > 0:
                 result.append(vacancy)
         return result
 
@@ -64,6 +70,7 @@ if __name__ == "__main__":
     hh = hh()
     hh.get_list_of_vacancies()
     print('Number of provided vacancies by HH:', len(hh.vacancies))
-    print(hh.vacancies)
-    print('After filtration:',len(hh.filter_by()))
-    print(hh.filter_by())
+    print('Filtered by "Django", "Flask"')
+    print(hh.filter_by_text())
+    print('Filtered by USD:')
+    print(hh.filter_by_curency())
