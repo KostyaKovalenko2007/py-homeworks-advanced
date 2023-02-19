@@ -22,7 +22,6 @@ class task1():
 
 
 class task2():
-
     ids = {'user1': [213, 213, 213, 15, 213],
            'user2': [54, 54, 119, 119, 119],
            'user3': [213, 98, 98, 35]}
@@ -38,14 +37,15 @@ class task4():
     stats = {'facebook': 55, 'yandex': 120, 'vk': 115, 'google': 99, 'email': 42, 'ok': 98}
 
     def get_max(self):
-        return sorted(self.stats.items(), key = lambda item: item[1], reverse = True)[0][0]
+        return '' if len(self.stats) <= 0 else \
+        sorted(self.stats.items(), key = lambda item: item[1], reverse = True)[0][0]
 
 
 if __name__ == '__main__':
-    task1 = task1()
-    print(task1.get_russia_visits())
-    # task2 = task2()
-    # print(task2.get_unique())
+    # task1 = task1()
+    # print(task1.get_russia_visits())
+    task2 = task2()
+    print(task2.get_unique())
     # task4 = task4()
     # print(task4.get_max())
     pass

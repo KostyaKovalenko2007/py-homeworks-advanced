@@ -1,0 +1,230 @@
+{
+  '_embedded': {
+    'sort': '',
+    'items': [
+      {
+        'name': 'img',
+        'exif': {},
+        'created': '2022-12-14T16:29:38+00:00',
+        'resource_id': '133811340:0b03e73cc2c2b1e8090bff32cb654e4e6bf97278fc2ea002429592af1e95309a',
+        'modified': '2022-12-14T16:29:38+00:00',
+        'path': 'disk:/img',
+        'comment_ids': {
+          'private_resource': '133811340:0b03e73cc2c2b1e8090bff32cb654e4e6bf97278fc2ea002429592af1e95309a',
+          'public_resource': '133811340:0b03e73cc2c2b1e8090bff32cb654e4e6bf97278fc2ea002429592af1e95309a'
+        },
+        'type': 'dir',
+        'revision': 1671035378369994
+      },
+      {
+        'name': 'Загрузки',
+        'exif': {},
+        'created': '2021-08-10T09:07:04+00:00',
+        'resource_id': '133811340:887e1b5bf2eb77365506eacc0d1045ad8d9e4bb53f1a1145a467631d85a47ca0',
+        'modified': '2022-03-03T19:19:32+00:00',
+        'path': 'disk:/Загрузки',
+        'comment_ids': {
+          'private_resource': '133811340:887e1b5bf2eb77365506eacc0d1045ad8d9e4bb53f1a1145a467631d85a47ca0',
+          'public_resource': '133811340:887e1b5bf2eb77365506eacc0d1045ad8d9e4bb53f1a1145a467631d85a47ca0'
+        },
+        'type': 'dir',
+        'revision': 1646335172901643
+      },
+      {
+        'name': 'Музыка',
+        'exif': {},
+        'created': '2018-04-05T06:55:06+00:00',
+        'resource_id': '133811340:a45b1e404a8441c40e9ba5719ade94f23f8bfad38fa49d1ff0ce7d3f531219a5',
+        'modified': '2018-04-05T06:55:06+00:00',
+        'path': 'disk:/Музыка',
+        'comment_ids': {
+          'private_resource': '133811340:a45b1e404a8441c40e9ba5719ade94f23f8bfad38fa49d1ff0ce7d3f531219a5',
+          'public_resource': '133811340:a45b1e404a8441c40e9ba5719ade94f23f8bfad38fa49d1ff0ce7d3f531219a5'
+        },
+        'type': 'dir',
+        'revision': 1522911306053989
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 1762478,
+        'comment_ids': {
+          'private_resource': '133811340:5f90d80abbde676c3f404c67e05c25b7073560111821a23c077e21c8a7e9a0dc',
+          'public_resource': '133811340:5f90d80abbde676c3f404c67e05c25b7073560111821a23c077e21c8a7e9a0dc'
+        },
+        'name': 'Горы.jpg',
+        'exif': {
+          'date_time': '2014-12-13T03:47:06+00:00'
+        },
+        'created': '2018-04-05T06:55:10+00:00',
+        'resource_id': '133811340:5f90d80abbde676c3f404c67e05c25b7073560111821a23c077e21c8a7e9a0dc',
+        'modified': '2018-04-05T06:55:10+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/c056428754a85a1172d02d38aaf33c8be4976dd8aeb4fc36f391b54282b0afcb/63f2a71d/27dtdWwpiHWAOMwjvJSigCdbkJ2sC_KEk2e_VtbYAOdr6rmRYtpbQYz3IVW_GnQTUp8cZpYb05BdYA_XdsnYOQ%3D%3D?uid=133811340&filename=%D0%93%D0%BE%D1%80%D1%8B.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=1762478&hid=17e80f91be8985790b9b63a1ab6d29f2&media_type=image&tknv=v2&etag=1392851f0668017168ee4b5a59d66e7b',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/3f0a4430f828092440186d1f5514e998db482df4d44243a76d5911bbcca1b7ad/inf/P1Uu3IBvn2J_059WhlC9XydbkJ2sC_KEk2e_VtbYAOfuuRRO_ACnqYduWLfxvvz5VgHzs7xBXDvk4Qqe7B86gQ%3D%3D?uid=133811340&filename=%D0%93%D0%BE%D1%80%D1%8B.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Горы.jpg',
+        'sha256': 'd69e72661e26d9f1d44ab12e59c6cebfde48c125299db7768c913cfb5e42dffd',
+        'type': 'file',
+        'md5': '1392851f0668017168ee4b5a59d66e7b',
+        'revision': 1522911310063651
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 1394575,
+        'comment_ids': {
+          'private_resource': '133811340:fa972ebdb12a3bb2f00fc6b9f1fe6f1039ad534757f82f06609a9f4cba945634',
+          'public_resource': '133811340:fa972ebdb12a3bb2f00fc6b9f1fe6f1039ad534757f82f06609a9f4cba945634'
+        },
+        'name': 'Зима.jpg',
+        'exif': {
+          'date_time': '2014-12-13T11:08:58+00:00'
+        },
+        'created': '2018-04-05T06:55:07+00:00',
+        'resource_id': '133811340:fa972ebdb12a3bb2f00fc6b9f1fe6f1039ad534757f82f06609a9f4cba945634',
+        'modified': '2018-04-05T06:55:07+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/28ec0b7952163699aa59b636848e4c9374220ee0eb5b6b1392fc3cc5af868ac7/63f2a71d/D-iq9lQjX_Zr993IEYjzkmycE3C0fjH29HfwRtDDKVyWBJtVQkKaAY6WQLsBCfaX_5jVH_I_j0M2ihrTxEBGRg%3D%3D?uid=133811340&filename=%D0%97%D0%B8%D0%BC%D0%B0.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=1394575&hid=db0ae88c49a4428517b857606969996b&media_type=image&tknv=v2&etag=a64146fee5e15b3b94c204e544426d43',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/82345adbe4c44a2b5b3c9ae0d0671d24469876f74860e0bb1d398e0ee0556d09/inf/gJ9KiimGoYbGCe2IrDWcVGycE3C0fjH29HfwRtDDKVygSgSgsryLElCdDXXAJj1BBccTjprd_uY3WWhDvvyBVA%3D%3D?uid=133811340&filename=%D0%97%D0%B8%D0%BC%D0%B0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Зима.jpg',
+        'sha256': '92850360b5dd81417b6576ca2b570bd6d4d669c700480940380cc92fa48a4d4f',
+        'type': 'file',
+        'md5': 'a64146fee5e15b3b94c204e544426d43',
+        'revision': 1522911307742508
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 1555830,
+        'comment_ids': {
+          'private_resource': '133811340:bfa8062ac6d6729942864c7667366175195587fbe0cecb02a88221d94c0eaaff',
+          'public_resource': '133811340:bfa8062ac6d6729942864c7667366175195587fbe0cecb02a88221d94c0eaaff'
+        },
+        'name': 'Мишки.jpg',
+        'exif': {
+          'date_time': '2014-12-13T14:29:24+00:00'
+        },
+        'created': '2018-04-05T06:55:09+00:00',
+        'resource_id': '133811340:bfa8062ac6d6729942864c7667366175195587fbe0cecb02a88221d94c0eaaff',
+        'modified': '2018-04-05T06:55:09+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/676f39bbd08bd016747487d2c8a36862408ef91d78bb680fe17ffc2f0c33968b/63f2a71d/YCWwIV93r7kdvdgkpYJf7GJbR3ANcQde87h7hiBT0GgAoFo_n3KO9GXq2HWzSWwrwox97L651eAD93T19uJnow%3D%3D?uid=133811340&filename=%D0%9C%D0%B8%D1%88%D0%BA%D0%B8.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=1555830&hid=d4562df88a4f7d98d8aa94e30de24c09&media_type=image&tknv=v2&etag=569a1c98696050439b5b2a1ecfa52d19',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/66660ec199abbf25d979b6ed21b768cb7f653983ea5f30aff30ce1dd832ae995/inf/fwhLIia_-zlk2uITaqxgbGJbR3ANcQde87h7hiBT0GhEI8fhcC9IFRIL8W4OBV0J-yLh1Ds-lBckf41RQO7cPQ%3D%3D?uid=133811340&filename=%D0%9C%D0%B8%D1%88%D0%BA%D0%B8.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Мишки.jpg',
+        'sha256': 'd76ce57d8abf4e8eafbc7c85cec59a7a7f12b1d603d51e928be4a3fea0f6817c',
+        'type': 'file',
+        'md5': '569a1c98696050439b5b2a1ecfa52d19',
+        'revision': 1522911309349207
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 1080301,
+        'comment_ids': {
+          'private_resource': '133811340:589a76b4633820fcb26c0c9e002cf489cb0c5d37788d6008e0fda1965649b79a',
+          'public_resource': '133811340:589a76b4633820fcb26c0c9e002cf489cb0c5d37788d6008e0fda1965649b79a'
+        },
+        'name': 'Море.jpg',
+        'exif': {
+          'date_time': '2014-12-13T10:31:34+00:00'
+        },
+        'created': '2018-04-05T06:55:09+00:00',
+        'resource_id': '133811340:589a76b4633820fcb26c0c9e002cf489cb0c5d37788d6008e0fda1965649b79a',
+        'modified': '2018-04-05T06:55:08+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/9f1d56eef3af7fe8aaf38d3dfdac5155be4c468e037abf2ac623456649e95879/63f2a71d/WkVZq2fSNyX4Wj1eGp5xvVuQ-biYzXHMfURW4VIc4rnTDhDv_2FACX-6brYvo5Lna_4TuhGY_HuTtgY7RM8VkQ%3D%3D?uid=133811340&filename=%D0%9C%D0%BE%D1%80%D0%B5.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=1080301&hid=d7c189c9f94c684a2a2e6cfd66ed312d&media_type=image&tknv=v2&etag=ab903d9cab031eca2a8f12f37bbc9d37',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/a7b695221f591983a01bc04633f3146e4aa20f480ad88f096d9150d239348e29/inf/e4WTSuwXNwLjbjwaWi1vXFuQ-biYzXHMfURW4VIc4rmBxZhGf6N5b4MEf_ueh3VwZDJ7I3Qq7cU45yvpQs5vyA%3D%3D?uid=133811340&filename=%D0%9C%D0%BE%D1%80%D0%B5.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Море.jpg',
+        'sha256': '21f14018436c3dca7a47c5bd83f3b9bbc8b6c113b2a1d23ce7f5a0c80ce0e687',
+        'type': 'file',
+        'md5': 'ab903d9cab031eca2a8f12f37bbc9d37',
+        'revision': 1522911309010909
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 1454228,
+        'comment_ids': {
+          'private_resource': '133811340:8c3c3cfcb8dc707665401cbb69474af6a59d554b74409b60e20fad2ddec75055',
+          'public_resource': '133811340:8c3c3cfcb8dc707665401cbb69474af6a59d554b74409b60e20fad2ddec75055'
+        },
+        'name': 'Москва.jpg',
+        'exif': {
+          'date_time': '2014-12-13T11:59:54+00:00'
+        },
+        'created': '2018-04-05T06:55:08+00:00',
+        'resource_id': '133811340:8c3c3cfcb8dc707665401cbb69474af6a59d554b74409b60e20fad2ddec75055',
+        'modified': '2018-04-05T06:55:08+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/27541ff555314a4bd76c21d8f933b4b9364d820c5529d32f42aa673f348fbf2c/63f2a71d/fKqInKw3d7bLFOeFnMGnhNHUepg1Objd7eCfo_JlkTad0ayQc-ZMljpRxlZSDE7sJJertZ6z_HDdbCYbMXmZCJq9pH-Cabu7Wo0EHy8YW12r8npumZHI4midPdWhecNq?uid=133811340&filename=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=1454228&hid=427d5900ad807ada37f94079f0fe7806&media_type=image&tknv=v2&etag=d27d72a3059ad5ebed7a5470459d2670',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/d68007c0203abfd83e82da4e10d3cda21bed804b08fedb898cf75d8ef1ee3a91/inf/ZVC7-INXOu_0IcOYaapGHnjL00_cSZL0f_GVwGD8z-hRqLOn0WM2fME5k6Vt0KM6hyWB5bqQ2yaQ1U6ZQG9Oyg%3D%3D?uid=133811340&filename=%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Москва.jpg',
+        'sha256': 'fe9e2ea0d191ff0eb9d2129464f87da5fd5f02f370a4889492efc18947c70172',
+        'type': 'file',
+        'md5': 'd27d72a3059ad5ebed7a5470459d2670',
+        'revision': 1522911308052877
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 2573704,
+        'comment_ids': {
+          'private_resource': '133811340:61b10373ab2645ea2358a9e9c77678f7bb102755e09c29f401100311f21a5081',
+          'public_resource': '133811340:61b10373ab2645ea2358a9e9c77678f7bb102755e09c29f401100311f21a5081'
+        },
+        'name': 'Санкт-Петербург.jpg',
+        'exif': {
+          'date_time': '2014-12-12T21:44:18+00:00'
+        },
+        'created': '2018-04-05T06:55:08+00:00',
+        'resource_id': '133811340:61b10373ab2645ea2358a9e9c77678f7bb102755e09c29f401100311f21a5081',
+        'modified': '2018-04-05T06:55:08+00:00',
+        'mime_type': 'image/jpeg',
+        'file': 'https://downloader.disk.yandex.ru/disk/530e403e5b85eea7579c732eb1836f563db1249752bfaab6ba46001ffebe6d9b/63f2a71d/fKqInKw3d7bLFOeFnMGnhI5v6Zfh6uadvU4cKxK24HyI1OCdMasAgEgLScUM6JPDscJioZaf8VsDipj8HYmKY9TQPvtOj0vzKre1f3GfyZOr8npumZHI4midPdWhecNq?uid=133811340&filename=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.jpg&disposition=attachment&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&fsize=2573704&hid=bc8e245154c42183b8b33f0631237e5e&media_type=image&tknv=v2&etag=f1abe3b27b410128623fd1ca00a45c29',
+        'media_type': 'image',
+        'preview': 'https://downloader.disk.yandex.ru/preview/dd246c273039e3f7bcec258acfd4089d3c3cc413c53c96dc40f62f828c4b3e5f/inf/6P9w4yUpvwnYuWwzwnchjtw0IFwfHAAhadUtCBza3MYM2rTZhg5tmNac_3r1RJz1ejms6rkGVZD7lBYYMqbB7Q%3D%3D?uid=133811340&filename=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Санкт-Петербург.jpg',
+        'sha256': 'c142184b858a12a672bed0533812eb7eef3b1fac38c27eaef6c8f0915d98a8dc',
+        'type': 'file',
+        'md5': 'f1abe3b27b410128623fd1ca00a45c29',
+        'revision': 1522911308378135
+      },
+      {
+        'antivirus_status': 'clean',
+        'size': 31000079,
+        'comment_ids': {
+          'private_resource': '133811340:5df314daefe7b88dc0eed62e33a89076c3bfa9b857ac8a3e7b104b028f81dca0',
+          'public_resource': '133811340:5df314daefe7b88dc0eed62e33a89076c3bfa9b857ac8a3e7b104b028f81dca0'
+        },
+        'name': 'Хлебные крошки.mp4',
+        'exif': {
+          'date_time': '2014-02-07T05:30:02+00:00'
+        },
+        'created': '2018-04-05T06:55:09+00:00',
+        'resource_id': '133811340:5df314daefe7b88dc0eed62e33a89076c3bfa9b857ac8a3e7b104b028f81dca0',
+        'modified': '2018-04-05T06:55:09+00:00',
+        'mime_type': 'video/mp4',
+        'file': 'https://downloader.disk.yandex.ru/disk/c9effc35151631c131facf177a9a69c7c92376edef9b1e4f3edf0bf782958c7a/63f2a71d/2IoFYJdgmtk5GAF45h99WPnBJ8ZXMdQXg1Tr8iV36ewrurbzgTQZtjIRTatIJPyzlBhZ7AXJcIRcMH9847fKIA%3D%3D?uid=133811340&filename=%D0%A5%D0%BB%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B8.mp4&disposition=attachment&hash=&limit=0&content_type=video%2Fmp4&owner_uid=133811340&fsize=31000079&hid=94202fd1336a809f74d8e7c38ab35906&media_type=video&tknv=v2&etag=ea977f513074d5524bee3638798183b9',
+        'media_type': 'video',
+        'preview': 'https://downloader.disk.yandex.ru/preview/9026e9e40c2eee30309eb3902fed2240a63939e45f0b823d6552458d2d234ec3/inf/-pgQNZfp9o_7gHS-Wt7fy_nBJ8ZXMdQXg1Tr8iV36ewPDDD1HmYpS17mcBvMVaQ_LUsVSSGf-Pn5y20PwvXAig%3D%3D?uid=133811340&filename=%D0%A5%D0%BB%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5%20%D0%BA%D1%80%D0%BE%D1%88%D0%BA%D0%B8.mp4&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=133811340&tknv=v2&size=S&crop=0',
+        'path': 'disk:/Хлебные крошки.mp4',
+        'sha256': '14b39d4ed08c76d2031d7a6a4e708c98ddc63569e9806d602f6ac702db47ae19',
+        'type': 'file',
+        'md5': 'ea977f513074d5524bee3638798183b9',
+        'revision': 1522911309732497
+      }
+    ],
+    'limit': 20,
+    'offset': 0,
+    'path': 'disk:/',
+    'total': 10
+  },
+  'name': 'disk',
+  'exif': {},
+  'resource_id': '133811340:cb5ddcef142f2edd799b10e33860ea11f498c666d390385b192bd9a1965667fa',
+  'created': '2012-04-04T20:00:00+00:00',
+  'modified': '2012-04-04T20:00:00+00:00',
+  'path': 'disk:/',
+  'comment_ids': {},
+  'type': 'dir',
+  'revision': 1522911305487150
+}
